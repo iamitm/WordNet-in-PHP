@@ -4,6 +4,8 @@ This projects is mainly designed and developed those who wants to integrate word
 
 This will help facilitating users to easy access wordnet without installing wordnet on their local machines.
 
+To access the project please do visit (www.klimble.com/sami/wn)
+
 Kind regards,
 
 Sami
