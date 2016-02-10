@@ -1,4 +1,4 @@
-# WordNet-in-PHP
+# WordNet PHP API
 
 This projects is mainly designed and developed those who wants to integrate wordNet in their webpages or who want to extract related terms from WordNet.
 
